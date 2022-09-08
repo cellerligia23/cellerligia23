@@ -1,7 +1,7 @@
 ### Olá eu sou Ligia A. Constantino 👋
 
 - 🔭 Fazendo Faculdade: Gestão da Tecnologia da Informação - (FEV/2021 - JUL/2023)
-- 🌱 Fazendo Curso: Desenvolvimento Full Stack na Trybe - (SET/2021 - SET/2022)
+- 🌱 Fazendo Curso: Desenvolvimento Full Stack na Trybe - (SET/2021 - NOV/2022)
 - 📫 Contato: cellerligia23@gmail.com
 - 😄 Pronomes: ela/dela
 
